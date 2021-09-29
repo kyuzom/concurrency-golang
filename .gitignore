@@ -17,3 +17,4 @@
 # Executables
 cmd/fanin/fanin
 cmd/fanout/fanout
+cmd/faninout/faninout
