@@ -18,3 +18,4 @@
 cmd/fanin/fanin
 cmd/fanout/fanout
 cmd/faninout/faninout
+cmd/gorctl/gorctl
